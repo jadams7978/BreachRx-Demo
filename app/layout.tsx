@@ -17,9 +17,12 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Breach Notification Timeline Explorer (Demo)',
-  description:
-    'Toy, illustrative demo inspired by BreachRx Cyber RegScout. Not legal advice.',
+  title: 'Breach Notification Timeline Explorer',
+  description: 'Concept demo inspired by BreachRx\'s Cyber RegScout.',
+  robots: {
+    index: false,
+    follow: false,
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
