@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/af5bf8c586ec9d94.js"],"default"]
+3:I[22016,["/_next/static/chunks/af5bf8c586ec9d94.js"],""]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"EQItcqmBmy9dViwauA_h8","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$L3",null,{"href":"/","className":"text-sm text-blue-700 hover:underline","children":"← Back to Home"}]}],["$","h1",null,{"className":"mb-6 text-2xl font-semibold","children":"Resume"}],["$","div",null,{"className":"rounded-lg border bg-white p-6 shadow-sm","children":["$","div",null,{"className":"prose max-w-none","children":[["$","p",null,{"className":"text-gray-600","children":"Paste your resume content here. Keep it simple for V1."}],["$","ul",null,{"className":"list-disc pl-6","children":[["$","li",null,{"children":"Summary"}],["$","li",null,{"children":"Experience"}],["$","li",null,{"children":"Education"}],["$","li",null,{"children":"Skills"}],["$","li",null,{"children":"Projects"}]]}],["$","p",null,{"className":"text-xs text-gray-500 mt-6","children":"This page intentionally has no fancy logic."}]]}]}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/af5bf8c586ec9d94.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

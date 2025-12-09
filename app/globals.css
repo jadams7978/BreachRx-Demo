@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@source "../components";
+@plugin "@tailwindcss/typography";
+
+/* BreachRx Brand Theme */
+@theme {
+  /* Brand Colors */
+  --color-brx-blue: #42a8d2;
+  --color-brx-blue-hover: #3a95bb;
+  --color-brx-navy: #101236;
+  --color-brx-dark: #1e1f1f;
+  --color-brx-text-body: #7a7a7a;
+  --color-brx-text-heading: #444444;
+
+  /* Font Families */
+  --font-heading: "Montserrat", sans-serif;
+  --font-body: "Open Sans", sans-serif;
+}
